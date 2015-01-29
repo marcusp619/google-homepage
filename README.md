@@ -1,6 +1,5 @@
-# hello-world
-Getting my first green box
+# GOOGLE-HomePag
+[The Odin Project](http://www.theodinproject.com)
 ### What im doing
 
-- Follwing a guide to learn the github enviorment.
-- currently learning commit changes..
+- Getting Familiar With HTML&CSS
