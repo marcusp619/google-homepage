@@ -1,0 +1,47 @@
+.wrapper{
+ max-width: 100%;
+}
+header {
+  float: right;
+}
+.logo{
+  width:50%;
+  margin: 0px auto;
+  padding-top: 20%;
+  padding-bottom: 20px;
+  
+}
+a{
+  color: rgba(0,0,0,1);
+  text-decoration: none;
+  margin: 5px
+}
+form {
+ width: 50%; 
+ margin: 0 150px 10px auto;
+}
+
+.google-button{
+  padding-bottom: 200px;
+  text-align: center;
+  height: 32px;
+  font-weight: bold;
+  background-color: rgba(0,0,0,0.);
+}
+
+footer {
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 10px;
+  background-color: #efefef;
+  text-align: center;
+}
+
+.left-side{
+  float: left;
+  }
+
+.right-side{
+  float: right;
+}
